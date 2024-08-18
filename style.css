@@ -1,0 +1,105 @@
+body{
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+}
+.logo{
+    width: 70px;
+}
+.egypt{
+    width: 40px;
+}
+
+header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: rgb(243, 243, 243);
+    padding: 20px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.199);
+    
+}
+.chevron{
+    width: 20px;
+
+}
+.mockup{
+    display: flex;
+}
+.text{
+    padding: 50px;
+    width: 390px;
+}
+.text p{
+    font-size: 20px;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.phone img{
+    width: 350px;
+    margin-top: 50px;
+    margin-left: 350px;
+}
+.login{
+    padding-right: 20px;
+    border: none;
+    position: absolute;
+    right: 10px;
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    
+}
+footer{
+    padding: 12px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.205);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer a{
+    color: #00ccff;
+}
+.video{
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
+.video img{
+    margin-left: 12px;
+}
+.Any{
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 15px;
+    font-family: monospace;
+    color: #00ccff;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li a{
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(95, 95, 95);
+    font-family: monospace;
+}
+.login a{
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(95, 95, 95);
+    font-family: monospace;
+    border: 2px solid #00ccff;
+    padding: 5px 35px 5px 35px;
+    border-radius: 50px;
+    color: #00b5e2;
+    font-weight: bold;
+
+}
